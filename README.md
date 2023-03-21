@@ -1,16 +1,6 @@
 # untitled2
 
-A new Flutter project.
+Flutter project to store a list of n integers using a provider and display on a new page
 
-## Getting Started
+This project has been made with bare minimum UI, just to highlight functionality of providers and Futures, and has 2 pages along with the ability to remove integers based on list index.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
