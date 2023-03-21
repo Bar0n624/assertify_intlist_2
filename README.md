@@ -1,4 +1,4 @@
-# untitled2
+# Intlist
 
 Flutter project to store a list of n integers using a provider and display on a new page
 
